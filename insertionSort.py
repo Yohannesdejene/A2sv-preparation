@@ -15,11 +15,7 @@ def insertionSort1(arr):
          y-=1;
 
        arr[y+1] = target
-    # print(*arr)
-    #
-    # 
-    # #check with array=arr
-    # 
+   
 arr=[2,4,5,76,5,4,-5,6,9];
 
 insertionSort1(arr)
